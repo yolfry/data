@@ -1,7 +1,7 @@
 {
     "cupones": {
         "RDPOWEROFF15": {
-            "code": "RDPOWEROFF15",
+            "code": "RDPOWEROFF16",
             "plus": 15,
             "condition": 50
         },
