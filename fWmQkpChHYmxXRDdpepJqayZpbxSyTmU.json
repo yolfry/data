@@ -1,0 +1,19 @@
+{
+    "cupones": {
+        "RDPOWEROFF15": {
+            "code": "RDPOWEROFF15",
+            "plus": 15,
+            "condition": 50
+        },
+        "RDPOWEROFF40": {
+            "code": "RDPOWEROFF40",
+            "plus": 40,
+            "condition": 100
+        },
+        "RDPOWEROFF100": {
+            "code": "RDPOWEROFF100",
+            "plus": 100,
+            "condition": 200
+        }
+    }
+}
